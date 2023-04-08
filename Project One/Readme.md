@@ -1,5 +1,5 @@
 # OpenGL
-openGl is a cross-platform graphics API that is used to create 2D and 3D graphics in computer application. It provide a set of function that allow developers to create complex graphics images and animations, and it can be used with a variety of programming languages, including c++, java, python,  and more. OpenGL is widely used in video games, virtual reality applications, scientific visualization, and other areas where high-performance graphics are required.
+OpenGl is a cross-platform graphics API that is used to create 2D and 3D graphics in computer application. It provide a set of function that allow developers to create complex graphics images and animations, and it can be used with a variety of programming languages, including c++, java, python,  and more. OpenGL is widely used in video games, virtual reality applications, scientific visualization, and other areas where high-performance graphics are required.
 - In this program we are going to use C++ programming Language and our platform is ubuntu
 
 ## Table of Contents
